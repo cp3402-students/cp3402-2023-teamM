@@ -2,8 +2,8 @@
 This is a website for "BaizonnLearningCenter" which specialize in Math and Science from Primary to Junior College.
 
 ## Website Server Info
-- Staging Address: http://34.87.236.236/stage/
-- Production Address: http://34.87.236.236/prod/
+- Staging Address: http://yangy.sgedu.site/
+- Production Address: http://yangy.sgedu.site/
 - Ubuntu 16.04 hosted on a Google Cloud IAAS Computer Engine Instance.
 - PHP Version 7.0.33
 - Apache 2.4.18
