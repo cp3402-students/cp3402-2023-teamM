@@ -82,7 +82,7 @@ we only made changes to the following html tags that will change how our Website
 
 ### To get our Child theme you can dowload or clone from this Github Repository ###
 
-[Astra child theme made by Group 11](https://github.com/cp3402-students/cp3402-2021-env-cp3402-group-11)
+[Astra child theme made by Group M](https://github.com/cp3402-students/cp3402-2023-teamM/)
 
 
 
