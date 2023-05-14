@@ -22,7 +22,7 @@ This is a website for "BaizonnLearningCenter" which specialize in Math and Scien
 ### Theme Installation
 Be sure to install or already be using [WordPress](https://wordpress.org/download/ "Download WordPress") on your site.
 #### Without our Install Zip
-- Install the 'Understrap' parent theme [See documentation](https://understrap.github.   io/#installation "Understap").
+- Install the 'Understrap' parent theme [See documentation]("https://docs.themeisle.com/article/4-how-to-install-wordpress-themes").
 - Copy the /understrap-jazz theme directory to wp-content/themes inside your WordPress installation directory.
 - Login to WordPress and select the Understrap-Jazz theme.
 
