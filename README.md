@@ -3,12 +3,13 @@ This is a website for "BaizonnLearningCenter" which specialize in Math and Scien
 
 
 ## Group Members:
-1.  YANG RUI-
-2.  QU CHUANJIE - chuanjie.qu@my.jcu.edu.au
-3.  YUAN SHENBO - shengbo.yuan@my.jcu.edu.au
-4.  WANG QI - qi.wang5@my.jcu.edu.au
-5. ZHANG MINGXUAN - mingxuan.zhang1@my.jcu.edu.au
-6.
+1.YANG RUI-
+2.QU CHUANJIE - chuanjie.qu@my.jcu.edu.au
+3.YUAN SHENBO - shengbo.yuan@my.jcu.edu.au
+4.WANG QI - qi.wang5@my.jcu.edu.au
+5.ZHANG MINGXUAN - mingxuan.zhang1@my.jcu.edu.au
+6.ZHANG HANWEN - hanwen.zhang@my.jcu.edu.au
+7.HAN JIAXIAO - 
 
 ## Website Server Info
 - Staging Address: http://yangy.sgedu.site/
