@@ -5,7 +5,7 @@ The following is how development is recommended for this project
 1. Download and install <a href="https://localwp.com/">Local WP</a>(One-click WordPress Installation  onto your desktop.
 
 2. Create a local environment similar to what is shown below
-<img width="1194" alt="Screenshot 2022-01-06 at 4 35 05 PM" src="https://user-images.githubusercontent.com/68360382/148569276-15cbd212-b65d-42de-935d-e14d9fea2c8d.png">
+<img width="1194" alt="Screenshot 2022-01-06 at 4 35 05 PM" src="https://github.com/cp3402-students/cp3402-2023-teamM/blob/main/Website/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230515080311.png">
 
 3. Clone or download the zip  <a href="https://github.com/cp3402-students/cp3402-2021-site-cp3402-group-11">GitHub</a> repository onto your desktop and unzip the folder if you downloaded it. This is the full entire site 
 
