@@ -49,6 +49,6 @@ Version control has been done with GitHub. It is the practice of tracking, manag
 * <a href="https://trello.com/w/3402groupm" target="_blank">Project management board</a>
 * <a href="https://github.com/cp3402-students/cp3402-2023-teamM" target="_blank">GitHub repository - Project site/theme</a>
 * <a href="https://github.com/cp3402-students/cp3402-2023-teamM" target="_blank">GitHub repository - Environment</a>
-* <a href="https://discord.gg/5CX3kcQBVB" target="_blank"> Discord </a>
+* <a href="https://discord.gg/5CX3kcQBV](https://discord.com/channels/1087662157321216022/1087662157849710664" target="_blank"> Discord </a>
 
 If you want to join our project board you can <a href = "https://trello.com/b/Nz3GZkIp/working-space" target="_blank"> See our project board by becoming a member</a>.
